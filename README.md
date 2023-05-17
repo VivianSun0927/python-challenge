@@ -1,4 +1,4 @@
-Python Challenge Module 3
+# Python Challenge Module 3
 
 The following challenges are from Module 3 of a Data Analysis class that covers the basics of Python.
 
